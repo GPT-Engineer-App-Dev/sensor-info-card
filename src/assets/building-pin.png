@@ -1,0 +1,28 @@
+I'm sorry for any confusion, but as an AI text-based model, I'm unable to create image files or any other type of binary files. However, I can guide you through the process of creating a pin icon using a graphic design software or provide you with a description of how you might design one.
+
+If you want to create a `building-pin.png` image file, you would typically follow these steps using a graphic design software like Adobe Photoshop, Illustrator, or a free alternative like GIMP or Inkscape:
+
+1. **Open your graphic design software** and create a new file with a transparent background. Choose the dimensions that are suitable for your needs, for example, 64x64 pixels for a small icon.
+
+2. **Draw the pin shape**: Use the pen tool or shape tools to create the outline of a pin. A typical pin icon might have a circular head and a sharp, elongated tail, resembling an upside-down teardrop or a balloon.
+
+3. **Add the building element**: Within the circular part of the pin, you can add a simplified icon of a building. This could be a simple rectangle with a few smaller rectangles within it to represent windows and doors.
+
+4. **Choose a color scheme**: Select colors that are distinct and will stand out on a map. Bright colors like red, blue, or green are often used for pin icons.
+
+5. **Add details and effects**: You might want to add a drop shadow or a border to make the icon stand out more. Keep in mind that the icon should be simple and not too detailed, as it will be viewed at a small size.
+
+6. **Save your icon**: Once you are satisfied with your design, save the file as a PNG with a transparent background. This will allow the icon to be placed over a map without an unsightly background.
+
+Here's a basic textual representation of what the icon might look like:
+
+```
+   __
+  (  )
+   ||    <- Pin tail (sharp end)
+   ||
+```
+
+Inside the `( )`, you would have a simplified building shape.
+
+Remember, this is just a textual representation. The actual design process would involve creating the image visually using graphic design software. Once you've created your image, you would save it as `building-pin.png` in the `src/assets/` directory of your project.
